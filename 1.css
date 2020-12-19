@@ -1,0 +1,50 @@
+h1{
+    color: aquamarine;
+    margin-left: 30px;
+}
+*{
+    border: solid;
+}
+
+h3{
+    color: chartreuse;
+}
+
+.Lewis{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.bottas{
+    background-color: peru;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color:rgb(100,150,255);
+}
+
+.h{
+    color: chocolate;
+    position: absolute;
+    left: 50%;
+    top:80%;
+    opacity: 0;
+}
+.h:hover{
+    opacity: 10;
+}
+
+.w{
+    color: darkgreen;
+    position: absolute;
+    left: 50%;
+    top: 125%;
+    opacity: 0;
+}
+
+.w:hover{
+    opacity: 10;
+}
